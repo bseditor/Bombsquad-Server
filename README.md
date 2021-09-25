@@ -70,6 +70,11 @@ tmux delete-session -t lirik-server        # To Delete particular session.
 ```bash
 cd dist/ba_root/mods && python3 update
 ```
+- **For updating the Server scripts**
+```bash
+cd Bombsquad-Server
+git pull
+```
 
 ## Have A Question ?
 - Join [Discussions](https://github.com/LIRIK-SPENCER/Bombsquad-Server/discussions) to get Started
